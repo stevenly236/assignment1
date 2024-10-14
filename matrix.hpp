@@ -12,7 +12,7 @@
 using namespace std;
 
 // Tolerance
-const double TOLERANCE = 1e-9;
+const double TOLERANCE = 0.0001;
 
 class matrix {
 private:
